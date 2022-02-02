@@ -8,7 +8,7 @@ Azure Services we can use in this are
 
 I have more ideas realted to health app and to know that do check Sanjeev New Idea ppt file upload in this app main branch
 
-📱 BMI (Body Mass Index) Calculator JavaScript 📱
+📱  BMI (Body Mass Index) Calculator JavaScript  📱
 
 Link : https://orange-stone-0e3da7a10.1.azurestaticapps.net/
 
